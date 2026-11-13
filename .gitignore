@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+config.json
+config.json.tmp
+models/
+/sdk/
+.superpowers/
+github-upload.bundle
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.pytest_cache/
